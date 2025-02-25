@@ -5,7 +5,7 @@ body{
 }
 .bg{
     height: 840px;
-    width: 1349px;
+    width: 1348px;
 
     z-index: -1;
 }
@@ -184,7 +184,7 @@ h4{
 .advice-page{
     background-color: #26335d;
     height: 1300px;
-    width: 1349px;
+    width: 1348px;
     margin-top: 130px;
     position: absolute;
 }
